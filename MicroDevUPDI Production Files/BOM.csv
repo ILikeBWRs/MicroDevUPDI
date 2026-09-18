@@ -1,4 +1,4 @@
-Ref Des,Qty,Manufacturer,Mfg Part#,Description/Value,Package,Type,Notes
+T,Qty,Manufacturer,Mfg Part#,Description/Value,Package,Type,Notes
 "C1,C2",2,Samsung Electro-Mechanics,CL05B104KO5NNNC,0.1uF Ceramic X7R Cap,402,SMD,
 D1,1,JCET / Yongyutai / MSKSEMI,MBR0520,Schottky diode 20V 0.5A,SOD-123,SMD,Made by many manufacturers – sourcing is not strict
 D2,1,Everlight,19-217/R6C-AL1M2VY/3T,Standard Red SMD Led,603,SMD,Any 0603 SMD LED – any colour works
@@ -7,7 +7,7 @@ J2,1, DNP,DNP,DNP,DNP,DNP,Do not populate
 "R1,R2",2,Yageo,RC0402FR-075K1L,5.1K 1% 1/16W Metal film resistor,402,SMD,
 R3,1,Yageo,RC0402FR-074K7L,4.7K 1% 1/16W Metal film resistor,402,SMD,
 R4,1,Yageo,RC0402FR-0710KL,"10K, 1% 1/16W Metal film resistor",402,SMD,
-R5,1,Yageo,RC0402FR-07330RL,330Ohm 1% 1/16W Metal film resistor,,,
+R5,1,Yageo,RC0402FR-07330RL,330Ohm 1% 1/16W Metal film resistor,402,SMD,
 U1,1,WCH,CH340E,"USB serial converter, UART",MSOP-10,SMD,"Must have dot aligned with the arrow, which indicates pin 1"
 U2,1,"Texas Instruments
 ",LM66100DCKR,Ideal Diode With Input Polarity Protection, SC-70-6,SMD,"Must have dot aligned with the arrow, which indicates pin 1"

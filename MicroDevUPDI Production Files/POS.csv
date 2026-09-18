@@ -1,5 +1,4 @@
 Ref,Val,Package,PosX,PosY,Rotation,Side
-J2,UPDI,PinSocket_1x03_P2.54mm_Vertical,145.26,-80.48,180,bottom
 C1,0.1uF,C_0402_1005Metric,140.48,-86.38,0,top
 C2,0.1uF,C_0402_1005Metric,135.88,-80.1,0,top
 D1,D_Zener,D_SOD-123,136.1575,-87.12,180,top
